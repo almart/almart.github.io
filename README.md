@@ -4,4 +4,4 @@ This blog has been created using the TeXt theme and served using github pages. I
 
 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
 
-[SVG Logo Credit](https://www.svgrepo.com/svg/24334/terminal-hand-drawn-symbol) 
+[SVG Logo Credit](https://www.svgrepo.com/svg/26953/terminal-window) 
