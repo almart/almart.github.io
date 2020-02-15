@@ -4,4 +4,4 @@ This blog has been created using the TeXt theme and served using github pages. I
 
 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
 
-[SVG Logo Credit](https://www.svgrepo.com/svg/26953/terminal-window) 
+[SVG Logo Credit](https://www.svgrepo.com/svg/16135/lock-square-locked-filled-padlock) 
