@@ -10,3 +10,10 @@ Welcome to my blog! I have been working professionally in Infosec for almost two
 
 
 ### Blog Inspiration: 
+
+Jeremy Kun:
+* https://jeremykun.com/
+
+IppSec:
+* https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+
