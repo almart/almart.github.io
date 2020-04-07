@@ -10,10 +10,11 @@ Welcome to my blog! I have been working professionally in Infosec for almost two
 
 
 ### Blog Inspiration: 
+Below, are content creators that have inspired me to create this blog. I will continue to expand on this list over time. 
 
-Jeremy Kun:
-* https://jeremykun.com/
+#### Jeremy Kun:
+    * https://jeremykun.com/
 
-IppSec:
-* https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+#### IppSec:
+    * https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 
