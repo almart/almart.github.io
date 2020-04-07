@@ -6,4 +6,7 @@ Welcome to my blog! I have been working professionally in Infosec for almost two
 
 *Certifications Pursuing: OSCP & GPEN*
 
-![Hack the Box](https://www.hackthebox.eu/badge/image/138106 "Hack the Box Rank")
+![Hack the Box](/assets/hacker-rank.png "Hack the Box Rank")
+
+
+### Blog Inspiration: 
