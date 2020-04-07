@@ -13,8 +13,12 @@ Welcome to my blog! I have been working professionally in Infosec for almost two
 Below, are content creators that have inspired me to create this blog. I will continue to expand on this list over time. 
 
 #### Jeremy Kun:
-    * https://jeremykun.com/
+    https://jeremykun.com/
 
 #### IppSec:
-    * https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+    https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
 
+#### Sean Goodwin:
+    https://seangoodwin.blog/
+
+    
