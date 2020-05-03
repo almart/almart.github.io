@@ -1,4 +1,3 @@
-# Hackthebox Forest Walkthrough  
 ![HTB Overivew](/assets/forest/forest-overview2.png)
 # Overview
 Forest is an *Easy* rated Windows box and features Active Directory based techniques. This box was released on October 2019 and created by egre55 & mrb3n. This is one my favorite boxes from HTB since the enumeration techniques are both practical and serve good practice for the OSCP. This post also has a video walkthrough (*see below*) which explains some of the attacks and challenges I faced.
